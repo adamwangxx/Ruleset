@@ -1,7 +1,7 @@
-user-agent, Spotify*, proxy
-host-suffix, pscdn.co, proxy
-host-suffix, scdn.co, proxy
-host-suffix, spotify.com, proxy
-host-suffix, spoti.fi, proxy
-host-keyword, spotify.com, proxy
-host-keyword, -spotify-com, proxy
+USER-AGENT, Spotify*
+DOMAIN-SUFFIX, pscdn.co
+DOMAIN-SUFFIX, scdn.co
+DOMAIN-SUFFIX, spotify.com
+DOMAIN-SUFFIX, spoti.fi
+DOMAIN-KEYWORD, spotify.com
+DOMAIN-KEYWORD, -spotify-com

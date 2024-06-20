@@ -1,61 +1,61 @@
-host-suffix, flyert.com, direct
-host-suffix, gandi.net, direct
-host-suffix, snapdrop.net, direct
-host, download.jetbrains.com, direct
-host, origin-a.akamaihd.net, direct
-host, outlook.office365.com, direct
-host, smtp-mail.outlook.com, direct
-host, smtp.office365.com, direct
-host-suffix, dl.delivery.mp.microsoft.com, direct
-host-suffix, update.microsoft.com, direct
-host-suffix, windowsupdate.com, direct
-host-suffix, windowsupdate.microsoft.com, direct
-host, download.microsoft.com, direct
-host, wustat.windows.com, direct
-host, ntservicepack.microsoft.com, direct
-host-suffix, paypal.com, direct
-host-suffix, paypal.me, direct
-host-suffix, paypal-mktg.com, direct
-host-suffix, paypalobjects.com, direct
-host-suffix, cm.steampowered.com, direct
-host-suffix, steamserver.net, direct
-ip-cidr, 182.254.116.0/24, direct
-ip-cidr, 203.205.238.0/23, direct
-ip-cidr, 203.205.254.0/23, direct
-host, ip.istatmenus.app, direct
-host, sms.imagetasks.com, direct
-host-suffix, netspeedtestmaster.com, direct
-host, speedtest.macpaw.com, direct
-host-suffix, acg.rip, direct
-host-suffix, animebytes.tv, direct
-host-suffix, awesome-hd.me, direct
-host-suffix, broadcasthe.net, direct
-host-suffix, chdbits.co, direct
-host-suffix, classix-unlimited.co.uk, direct
-host-suffix, comicat.org, direct
-host-suffix, empornium.me, direct
-host-suffix, gazellegames.net, direct
-host-suffix, hdbits.org, direct
-host-suffix, hdchina.org, direct
-host-suffix, hddolby.com, direct
-host-suffix, hdhome.org, direct
-host-suffix, hdsky.me, direct
-host-suffix, icetorrent.org, direct
-host-suffix, jpopsuki.eu, direct
-host-suffix, keepfrds.com, direct
-host-suffix, madsrevolution.net, direct
-host-suffix, morethan.tv, direct
-host-suffix, m-team.cc, direct
-host-suffix, myanonamouse.net, direct
-host-suffix, nanyangpt.com, direct
-host-suffix, ncore.cc, direct
-host-suffix, open.cd, direct
-host-suffix, ourbits.club, direct
-host-suffix, passthepopcorn.me, direct
-host-suffix, privatehd.to, direct
-host-suffix, pterclub.com, direct
-host-suffix, redacted.ch, direct
-host-suffix, springsunday.net, direct
-host-suffix, tjupt.org, direct
-host-suffix, totheglory.im, direct
-geoip, cn, direct
+DOMAIN-SUFFIX, flyert.com
+DOMAIN-SUFFIX, gandi.net
+DOMAIN-SUFFIX, snapdrop.net
+DOMAIN, download.jetbrains.com
+DOMAIN, origin-a.akamaihd.net
+DOMAIN, outlook.office365.com
+DOMAIN, smtp-mail.outlook.com
+DOMAIN, smtp.office365.com
+DOMAIN-SUFFIX, dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX, update.microsoft.com
+DOMAIN-SUFFIX, windowsupdate.com
+DOMAIN-SUFFIX, windowsupdate.microsoft.com
+DOMAIN, download.microsoft.com
+DOMAIN, wustat.windows.com
+DOMAIN, ntservicepack.microsoft.com
+DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, paypal.me
+DOMAIN-SUFFIX, paypal-mktg.com
+DOMAIN-SUFFIX, paypalobjects.com
+DOMAIN-SUFFIX, cm.steampowered.com
+DOMAIN-SUFFIX, steamserver.net
+IP-CIDR, 182.254.116.0/24
+IP-CIDR, 203.205.238.0/23
+IP-CIDR, 203.205.254.0/23
+DOMAIN, ip.istatmenus.app
+DOMAIN, sms.imagetasks.com
+DOMAIN-SUFFIX, netspeedtestmaster.com
+DOMAIN, speedtest.macpaw.com
+DOMAIN-SUFFIX, acg.rip
+DOMAIN-SUFFIX, animebytes.tv
+DOMAIN-SUFFIX, awesome-hd.me
+DOMAIN-SUFFIX, broadcasthe.net
+DOMAIN-SUFFIX, chdbits.co
+DOMAIN-SUFFIX, classix-unlimited.co.uk
+DOMAIN-SUFFIX, comicat.org
+DOMAIN-SUFFIX, empornium.me
+DOMAIN-SUFFIX, gazellegames.net
+DOMAIN-SUFFIX, hdbits.org
+DOMAIN-SUFFIX, hdchina.org
+DOMAIN-SUFFIX, hddolby.com
+DOMAIN-SUFFIX, hdhome.org
+DOMAIN-SUFFIX, hdsky.me
+DOMAIN-SUFFIX, icetorrent.org
+DOMAIN-SUFFIX, jpopsuki.eu
+DOMAIN-SUFFIX, keepfrds.com
+DOMAIN-SUFFIX, madsrevolution.net
+DOMAIN-SUFFIX, morethan.tv
+DOMAIN-SUFFIX, m-team.cc
+DOMAIN-SUFFIX, myanonamouse.net
+DOMAIN-SUFFIX, nanyangpt.com
+DOMAIN-SUFFIX, ncore.cc
+DOMAIN-SUFFIX, open.cd
+DOMAIN-SUFFIX, ourbits.club
+DOMAIN-SUFFIX, passthepopcorn.me
+DOMAIN-SUFFIX, privatehd.to
+DOMAIN-SUFFIX, pterclub.com
+DOMAIN-SUFFIX, redacted.ch
+DOMAIN-SUFFIX, springsunday.net
+DOMAIN-SUFFIX, tjupt.org
+DOMAIN-SUFFIX, totheglory.im
+geoip, cn
