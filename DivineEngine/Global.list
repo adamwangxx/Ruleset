@@ -233,8 +233,8 @@ DOMAIN-SUFFIX, webrtc.org
 DOMAIN-SUFFIX, widevine.com
 DOMAIN-SUFFIX, xn--ngstr-lra8j.com
 DOMAIN-SUFFIX, zynamics.com
-DOMAIN-keyword, google
-DOMAIN-keyword, .blogspot.
+DOMAIN-KEYWORD, google
+DOMAIN-KEYWORD, blogspot
 DOMAIN-SUFFIX, goog
 DOMAIN, testflight.apple.com
 DOMAIN-SUFFIX, gravatar.com
@@ -319,7 +319,7 @@ DOMAIN-SUFFIX, readyatdawn.com
 DOMAIN-SUFFIX, rocksdb.org
 DOMAIN-SUFFIX, whatsapp.com
 DOMAIN-SUFFIX, whatsapp.net
-DOMAIN-keyword, .facebook.
+DOMAIN-KEYWORD, .facebook.
 DOMAIN-SUFFIX, aka.ms
 DOMAIN-SUFFIX, github.blog
 DOMAIN-SUFFIX, github.com
@@ -333,7 +333,7 @@ DOMAIN, assets2.xboxlive.com
 DOMAIN, az416426.vo.msecnd.net
 DOMAIN, az668014.vo.msecnd.net
 DOMAIN-SUFFIX, pinimg.com
-DOMAIN-keyword, .pinterest.
+DOMAIN-KEYWORD, .pinterest.
 DOMAIN-SUFFIX, pixiv.net
 DOMAIN-SUFFIX, pixiv.org
 DOMAIN-SUFFIX, pximg.net
