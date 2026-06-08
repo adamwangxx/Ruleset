@@ -1,0 +1,8 @@
+#!name=Office内网Exclude
+#!desc=Office内网IP不经过 Surge
+#!category=Office
+
+# matches /etc/pf.anchors/wg-nat
+
+[General]
+tun-excluded-routes = 10.0.0.0/8, 172.16.0.0/12
