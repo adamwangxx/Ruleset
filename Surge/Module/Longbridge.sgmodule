@@ -1,0 +1,10 @@
+#!name=长桥
+#!desc=内地下单
+#!category=Finance
+
+[Rule]
+DOMAIN-SUFFIX,geotest.lbkrs.com,Proxy
+DOMAIN-SUFFIX,order-connect.lbkrs.com,Proxy
+DOMAIN-SUFFIX,order-connect-gl.lbkrs.com,Proxy
+DOMAIN-SUFFIX,api.lbkrs.com,Proxy
+DOMAIN-SUFFIX,api-gl.lbkrs.com,Proxy
