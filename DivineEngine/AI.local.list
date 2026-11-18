@@ -1,0 +1,9 @@
+# Local rules reapplied after every RuleGo sync.
+# This file is not a Surge ruleset. Rules already present upstream are not duplicated.
+
+# Anthropic logging. Upstream does not ship this domain.
+DOMAIN,http-intake.logs.us5.datadoghq.com
+
+# Kept on purpose when upstream narrowed or removed them.
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-KEYWORD,openai
