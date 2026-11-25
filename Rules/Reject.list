@@ -1,0 +1,9 @@
+# T3 Code Telemetry - Surge 规则集（仅拦截遥测域名）
+# 使用时由引用配置指定 REJECT 策略。
+
+# T3 产品使用遥测 (PostHog)
+DOMAIN,ingest.t3.codes
+# T3 Relay 追踪 (Axiom)
+DOMAIN,us-east-1.aws.edge.axiom.co
+# Clerk SDK 遥测
+DOMAIN,clerk-telemetry.com
